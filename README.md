@@ -8,4 +8,5 @@ The perpectual rate, required rate and cash flow growth rate are to be set by th
 
 # Example: Check the figures of Free Cash Flow (Stock Quote: AMD)
 website: https://finance.yahoo.com/quote/AMD/cash-flow?p=AMD
+
 Financials -> Cash Flow -> Annual(Choose) -> Free Cash Flow of 4 FYs
